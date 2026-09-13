@@ -1,0 +1,11 @@
+{
+  "name": "TubeRush",
+  "short_name": "TubeRush",
+  "description": "Mobile 3D tube racing with auto-aim turrets, a garage and a shop.",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0b0e14",
+  "theme_color": "#0b0e14",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
